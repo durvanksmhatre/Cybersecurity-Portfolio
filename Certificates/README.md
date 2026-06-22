@@ -6,7 +6,7 @@ This directory contains my cybersecurity and technology certifications earned th
 
 * Google Cybersecurity Professional Certificate
 * IIT Bombay – Introduction to IoT
-* Packt – ISO 27001 Certificate
+* Packt – Mastering ISO 27001 Controls: Implementation and Auditing
 
 The certificates in this directory represent my commitment to continuous learning and developing practical cybersecurity knowledge and skills.
 
