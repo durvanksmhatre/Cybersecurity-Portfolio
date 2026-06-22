@@ -8,7 +8,7 @@ This directory contains my cybersecurity and technology certifications earned th
 * Platform: Coursera
 * Date Earned: 4 June 2026
 * Credential ID: EKCQHSGKUYT
-* Verification URL: https://www.coursera.org/verify/professional-cert/EKCQHSGKUYT
+* Verification URL: https://coursera.org/verify/professional-cert/EKCQHSGKUYT1
 * Badge: https://www.credly.com/badges/57f9f621-2c9a-4521-b0b4-7e889900c0b6/public_url
 
 ---
