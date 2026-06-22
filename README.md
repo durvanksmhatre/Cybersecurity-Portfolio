@@ -20,19 +20,6 @@ I am passionate about continuously learning and building practical cybersecurity
 
 ---
 
-## Skills
-
-* Python
-* Linux
-* Networking
-* Git & GitHub
-* Windows Administration
-* Cybersecurity Fundamentals
-* Incident Response
-* SIEM (Learning)
-
----
-
 ## Projects
 
 | Project                | Status      |
