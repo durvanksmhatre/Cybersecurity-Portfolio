@@ -30,7 +30,8 @@ I am passionate about continuously learning and building practical cybersecurity
 | Vulnerability Scanner             | Planned     |
 | Home SOC Lab                      | Planned     |
 
-Python TCP Port Scanner:- https://github.com/durvanksmhatre/python-tcp-port-scanner
+* Python TCP Port Scanner:- https://github.com/durvanksmhatre/python-tcp-port-scanner
+
 ---
 
 ## Lab Environment
