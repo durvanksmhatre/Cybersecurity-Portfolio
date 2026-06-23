@@ -22,14 +22,15 @@ I am passionate about continuously learning and building practical cybersecurity
 
 ## Projects
 
-| Project                | Status      |
-| ---------------------- | ----------- |
-| Port Scanner           | Completed   |
-| Password Manager       | Planned     |
-| File Integrity Monitor | Planned     |
-| Vulnerability Scanner  | Planned     |
-| Home SOC Lab           | Planned     |
+| Project                           | Status      |
+| --------------------------------- | ----------- |
+| Python TCP Port Scanner           | Completed   |
+| Password Manager                  | Planned     |
+| File Integrity Monitor            | Planned     |
+| Vulnerability Scanner             | Planned     |
+| Home SOC Lab                      | Planned     |
 
+Python TCP Port Scanner:- https://github.com/durvanksmhatre/python-tcp-port-scanner
 ---
 
 ## Lab Environment
