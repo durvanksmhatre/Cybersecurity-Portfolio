@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio
 A collection of cybersecurity projects, labs, write-ups, and learning resources documenting my cybersecurity journey.
 
-# Hi, I'm Durvank 👋
+# Hi, I'm Durvank 
 
 ## About Me
 
