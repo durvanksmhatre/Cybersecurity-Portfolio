@@ -24,7 +24,7 @@ I am passionate about continuously learning and building practical cybersecurity
 
 | Project                | Status      |
 | ---------------------- | ----------- |
-| Port Scanner           | In Progress |
+| Port Scanner           | Completed   |
 | Password Manager       | Planned     |
 | File Integrity Monitor | Planned     |
 | Vulnerability Scanner  | Planned     |
@@ -46,7 +46,7 @@ I am passionate about continuously learning and building practical cybersecurity
 * Complete the IBM Cybersecurity Analyst Professional Certificate.
 * Build practical cybersecurity projects.
 * Document my learning journey through GitHub and LinkedIn.
-* Develop hands-on experience in SOC and Blue Team operations.
+* Develop hands-on experience.
 
 ---
 
