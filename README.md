@@ -43,15 +43,6 @@ I am passionate about continuously learning and building practical cybersecurity
 
 ---
 
-## Current Goals
-
-* Complete the IBM Cybersecurity Analyst Professional Certificate.
-* Build practical cybersecurity projects.
-* Document my learning journey through GitHub and LinkedIn.
-* Develop hands-on experience.
-
----
-
 ## Connect With Me
 
 LinkedIn: www.linkedin.com/in/durvankmhatre
