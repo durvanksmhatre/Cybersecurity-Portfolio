@@ -13,22 +13,35 @@ This directory contains my cybersecurity and technology certifications earned th
 
 ---
 
-## IIT Bombay – Introduction to IoT
+## IIT Bombay – Introduction to IoT Certificate
 
-* Issued by: IIT Bombay
+* Issued by: IIT Bombay 
+* Platform: Coursera
 * Date Earned: 15 June 2026
 * Credential ID: E3SLYI6EJQYO
 * Verification URL: https://www.coursera.org/verify/E3SLYI6EJQYO
 
 ---
 
-## ISO 27001 Certificate
+## Mastering ISO 27001 Controls: Implementation and Auditing Certificate
 
-* Issued by: Packt
+* Issued by: Packt 
+* Platform: Coursera
 * Date Earned: 15 June 2026
 * Credential ID: VQE7GQO3D7SF
 * Verification URL: https://www.coursera.org/verify/VQE7GQO3D7SF
 
+---
+
+## Information Security Risk Management for ISO 27001/ISO 27002
+
+* Issued by: Packt
+* Platform: Coursera
+* Date Earned:- 25 June 2026
+* Credential ID: B08YGM37Q1PY
+* Verification URL: https://www.coursera.org/verify/B08YGM37Q1PY
+
+---
 
 The certificates in this directory represent my commitment to continuous learning and developing practical cybersecurity knowledge and skills.
 

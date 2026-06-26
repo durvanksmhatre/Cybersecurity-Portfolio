@@ -14,9 +14,9 @@ I am passionate about continuously learning and building practical cybersecurity
 ## Certifications
 
 * Google Cybersecurity Professional Certificate
-* IBM Cybersecurity Analyst Professional Certificate (In Progress)
 * IIT Bombay – Introduction to IoT
 * Packt – ISO 27001 Certificate
+* Packt - Information Security Risk Management for ISO 27001/ISO 27002
 
 ---
 
