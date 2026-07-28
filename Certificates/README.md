@@ -43,5 +43,15 @@ This directory contains my cybersecurity and technology certifications earned th
 
 ---
 
+## Cyber Security Fundamentals
+
+* Issued by: University of London
+* Platform: Coursera
+* Date Earned:- 28 July 2026
+* Credential ID: 7X3KCYGYT1AS
+* Verification URL: https://www.coursera.org/verify/7X3KCYGYT1AS
+
+---
+
 The certificates in this directory represent my commitment to continuous learning and developing practical cybersecurity knowledge and skills.
 
