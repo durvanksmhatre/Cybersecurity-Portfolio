@@ -13,7 +13,7 @@ This directory contains my cybersecurity and technology certifications earned th
 
 ---
 
-## IIT Bombay – Introduction to IoT Certificate
+## Introduction to IoT
 
 * Issued by: IIT Bombay 
 * Platform: Coursera
@@ -50,6 +50,16 @@ This directory contains my cybersecurity and technology certifications earned th
 * Date Earned:- 28 July 2026
 * Credential ID: 7X3KCYGYT1AS
 * Verification URL: https://www.coursera.org/verify/7X3KCYGYT1AS
+
+---
+
+## Endpoint Detection and Response Essentials
+
+* Issued by: Packt
+* Platform: Coursera
+* Date Earned:- 29 July 2026
+* Credential ID: YO637UGAGH5L
+* Verification URL: https://www.coursera.org/verify/YO637UGAGH5L
 
 ---
 
