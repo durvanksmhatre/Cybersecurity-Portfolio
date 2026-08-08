@@ -17,20 +17,14 @@ I am passionate about continuously learning and building practical cybersecurity
 * IIT Bombay – Introduction to IoT
 * Packt – ISO 27001 Certificate
 * Packt - Information Security Risk Management for ISO 27001/ISO 27002
+* University of London - Cyber Security Fundamentals
+* Packt - Endpoint Detection and Response Essentials
+* Palo Alto Networks - Palo Alto Networks Cybersecurity
 
 ---
 
 ## Projects
 
-| Project                           | Status      |
-| --------------------------------- | ----------- |
-| Python TCP Port Scanner           | Completed   |
-| Password Manager                  | Planned     |
-| File Integrity Monitor            | Planned     |
-| Vulnerability Scanner             | Planned     |
-| Home SOC Lab                      | Planned     |
-
-* Python TCP Port Scanner:- https://github.com/durvanksmhatre/python-tcp-port-scanner
 
 ---
 
