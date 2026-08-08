@@ -63,5 +63,15 @@ This directory contains my cybersecurity and technology certifications earned th
 
 ---
 
+## Palo Alto Networks Cybersecurity
+
+* Issued by: Palo Alto Networks
+* Platform: Coursera
+* Date Earned:- 8 August 2026
+* Credential ID: XJPSIOGSIPB1
+* Verification URL: https://www.coursera.org/verify/professional-cert/XJPSIOGSIPB1
+
+---
+
 The certificates in this directory represent my commitment to continuous learning and developing practical cybersecurity knowledge and skills.
 
